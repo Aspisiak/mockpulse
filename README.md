@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub Stars](https://img.shields.io/github/stars/artur/mockpulse.svg?style=social&label=Star)](https://github.com/artur/mockpulse)
+[![GitHub Stars](https://img.shields.io/github/stars/Aspisiak/mockpulse.svg?style=social&label=Star)](https://github.com/Aspisiak/mockpulse)
 
 > **Turn your mock API schema into a stateful server with a premium real-time monitoring dashboard using a single command.**
 
@@ -111,7 +111,7 @@ If you want to contribute or build MockPulse locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mockpulse.git
+   git clone https://github.com/Aspisiak/mockpulse.git
    cd mockpulse
    ```
 2. Install dependencies:

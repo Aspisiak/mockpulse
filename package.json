@@ -1,0 +1,29 @@
+{
+  "name": "@artur/mockpulse",
+  "version": "1.0.0",
+  "description": "Instant, zero-configuration local API mocking server with a built-in premium developer dashboard.",
+  "main": "bin/cli.js",
+  "bin": {
+    "mockpulse": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "dev": "node bin/cli.js --dev"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "server",
+    "dashboard",
+    "rest",
+    "json",
+    "developer-tools",
+    "faker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

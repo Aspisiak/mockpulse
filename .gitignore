@@ -3,3 +3,5 @@ mockingbird.json
 test-mockingbird.json
 package-lock.json
 .DS_Store
+promptwhip/
+claudeflow/
